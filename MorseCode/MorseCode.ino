@@ -96,12 +96,6 @@ void playSpace()
 
 void playMorseLetter(char *signal)
 {
-  /*for(char *c = signal; c != 0; c++)
-  {
-    if(*c == '.') playShort();
-    else playLong();
-  } */
-  
   while (*signal)
   {
     if(*signal == '.') playShort();
