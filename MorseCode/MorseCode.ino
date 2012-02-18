@@ -1,5 +1,4 @@
 int in;
-char buffer[100];
 
 void setup()
 {
