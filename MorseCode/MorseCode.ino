@@ -69,7 +69,7 @@ char *getMorseSignal(char c)
 }
 
 const int toneFrequency = 25000;
-int unitLength = 150;
+const int unitLength = 150;
 
 void playLong()
 {
