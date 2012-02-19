@@ -1,7 +1,7 @@
 
-int rPin = 9;
-int gPin = 10;
-int bPin = 11;
+const int rPin = 9;
+const int gPin = 10;
+const int bPin = 11;
 
 
 void setup()
